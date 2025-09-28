@@ -18,8 +18,9 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+  - {file: "CV.pdf", title: "CV", icon: home}
+  - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=svHzmooAAAAJ&hl=zh-TW"}
+  - {title: "Lab", url: "https://uwaterloo.ca/structural-biomechanics-lab/"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:howardkao1130@gmail.com"}
