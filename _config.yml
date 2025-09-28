@@ -24,7 +24,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "howardkao1130@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/HowardKao-1130"}
-  - {title: Linkedin, icon: linkedin, url: "/feed.xml"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/cheng-hao-kao-64343b252/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
