@@ -1,6 +1,6 @@
 title: "Howard Kao"
-# author: "Blog Author"
-# description: "My blog"
+author: "Howard Kao"
+description: "Portfolio"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,9 +22,9 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "howardkao1130@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/HowardKao-1130"}
+  - {title: Linkedin, icon: linkedin, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
