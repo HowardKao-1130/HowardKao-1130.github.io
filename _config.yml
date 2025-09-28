@@ -22,9 +22,9 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:howardkao1130@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/HowardKao-1130"}
+  # - {title: Mail, icon: envelope, url: "mailto:howardkao1130@gmail.com"}
   - {title: Linkedin, icon: youtube, url: "https://www.linkedin.com/in/cheng-hao-kao-64343b252/"}
+  - {title: Github, icon: github, url: "https://github.com/HowardKao-1130"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
